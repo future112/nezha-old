@@ -4,7 +4,7 @@
 
 Docker镜像地址：
 ```
-tarogod/nz
+99320/nezha-old
 ```
 
 
